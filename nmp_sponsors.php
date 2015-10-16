@@ -1,6 +1,6 @@
 <?php 
 /*
- * Plugin Name: NMP Sponsers
+ * Plugin Name: NMP Sponsors
  */
 if ( ! defined( 'CMB_PATH') ) {
 	include_once( plugin_dir_path( __FILE__ ) . '/cmb/custom-meta-boxes.php' );
